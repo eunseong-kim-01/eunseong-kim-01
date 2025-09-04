@@ -31,9 +31,9 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **`🤖 [프로젝트 이름 1]`** | `[프로젝트 한 줄 요약: 예: 5-Stage Pipeline RISC-V CPU Core]` | `[Verilog, Vivado, Basys3]` | `[저장소 링크]` |
-| **`[프로젝트 이름 2]`** | `[예: UART IP 설계 및 FPGA 검증]` | `[SystemVerilog, ModelSim, DE1-SoC]` | `[저장소 링크]` |
-| **`[프로젝트 이름 3]`** | `[예: CNN 기반 이미지 필터 하드웨어 가속기 설계]` | `[Verilog, Python]` | `[저장소 링크]` |
+| **`🤖 [프로젝트 이름 1]`** | `[프로젝트 한 줄 요약]` | `[Verilog, Vivado, Basys3]` | `[저장소 링크]` |
+| **`[프로젝트 이름 2]`** | `[프로젝트 한 줄 요약]` | `[사용툴]` | `[저장소 링크]` |
+| **`[프로젝트 이름 3]`** | `[프로젝트 한 줄 요약]` | `[사용툴]` | `[저장소 링크]` |
 
 <br>
 
