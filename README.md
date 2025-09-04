@@ -1,11 +1,9 @@
-# 안녕하세요, 하드웨어 설계 엔지니어를 꿈꾸는 [김은성]입니다. 👋
+# 안녕하세요, 하드웨어 설계 엔지니어를 꿈꾸는 김은성입니다. 👋
 
 <br>
 
 ### 👨‍💻 About Me
 - 저는 **하드웨어 설계 엔지니어**를 목표로 공부하고 있는 학생입니다.
-- 복잡한 알고리즘과 아이디어를 Verilog와 같은 하드웨어 언어를 통해 물리적인 칩으로 구현하는 과정에 큰 매력을 느낍니다.
-- 특히 **[컴퓨터 아키텍처, SoC 설계, 저전력 설계, 하드웨어 가속기 등]** 분야에 깊은 관심을 가지고 있습니다.
 - 현재 하만 세미콘 아카데미에서 디지털 시스템 설계의 전 과정을 배우며 실무 역량을 키우고 있습니다.
 
 <br>
@@ -14,23 +12,20 @@
 #### Languages
 ![Verilog](https://img.shields.io/badge/Verilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-007ACC?style=for-the-badge)
 ![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tcl](https://img.shields.io/badge/Tcl-0075C8?style=for-the-badge&logo=tcl&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 #### EDA Tools & Simulation
 ![Xilinx Vivado](https://img.shields.io/badge/Vivado-D95319?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Intel Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-2A3C4D?style=for-the-badge)
-![Synopsys](https://img.shields.io/badge/Synopsys%20DC-00A65A?style=for-the-badge&logo=synopsys&logoColor=white)
-![Cadence](https://img.shields.io/badge/Cadence-525252?style=for-the-badge&logo=cadence&logoColor=white)
+![TCAD](https://img.shields.io/badge/Synopsys%20TCAD-00A65A?style=for-the-badge&logo=synopsys&logoColor=white)
 
 #### Hardware & Protocols
 - **FPGA Boards**: `[DE1-SoC]`, `[Zybo Z7]`, `[Basys 3]`
 - **Protocols**: `AXI4`, `APB`, `UART`, `SPI`, `I2C`
-- **Architectures**: `RISC-V`, `ARM Cortex-M`
-
+-' **Architectures**: `RISC-V`, `ARM Cortex-M'
 <br>
 
 ### 🚀 Featured Projects
