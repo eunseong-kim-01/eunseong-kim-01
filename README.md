@@ -44,6 +44,7 @@
 - 이 경험을 통해 반도체 소자의 물리적 동작 원리에 대한 깊이 있는 이해를 갖추게 되었으며, 이는 논리 설계 시 하드웨어의 물리적 제약을 고려하는 데 큰 도움이 되었습니다.
 
 
+
 #### 📝 Publications
 - **Temperature-Dependent Electrical Characteristics of Silicon Biristor**
   - **Eunseong Kim**, Doohyeok Lim
