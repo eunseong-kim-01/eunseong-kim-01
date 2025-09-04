@@ -19,13 +19,13 @@
 #### EDA Tools & Simulation
 ![Xilinx Vivado](https://img.shields.io/badge/Vivado-D95319?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Intel Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-2A3C4D?style=for-the-badge)
-![TCAD](https://img.shields.io/badge/Synopsys%20TCAD-00A65A?style=for-the-badge&logo=synopsys&logoColor=white)
+![Silvaco TCAD](https://img.shields.io/badge/Silvaco%20TCAD-D42E16?style=for-the-badge)
+
 
 #### Hardware & Protocols
-- **FPGA Boards**: `[DE1-SoC]`, `[Zybo Z7]`, `[Basys 3]`
-- **Protocols**: `AXI4`, `APB`, `UART`, `SPI`, `I2C`
--' **Architectures**: `RISC-V`, `ARM Cortex-M''
+- **FPGA Boards**: `[Basys 3]`
+- **Protocols**: `UART`
+- **Architectures**: 
 <br>
 
 ### 🚀 Featured Projects
@@ -38,30 +38,30 @@
 <br>
 
 ### 🔬 Research Experience & Publications
-#### 반도체 소자 연구실 (학부 연구생)
-- **기간**: `[시작 연도.월] ~ [종료 연도.월]`
-- **주요 연구 내용**: 차세대 반도체 소자인 Silicon Biristor의 온도 변화에 따른 전기적 특성을 분석하고 모델링하는 연구를 진행했습니다.
-- 이 경험을 통해 반도체 소자의 물리적 동작 원리에 대한 깊이 있는 이해를 갖추게 되었으며, 이는 논리 설계 시 하드웨어의 물리적 제약과 성능을 고려하는 데 큰 도움이 되었습니다.
+#### [반도체 소자 연구실 (Semiconductor Device Lab)] (학부 연구생)
+- **기간**: `[2022.6] ~ [2023.10]`
+- **주요 연구 내용**: Silvaco TCAD 툴을 활용하여 차세대 반도체 소자인 Silicon Biristor의 온도 변화에 따른 전기적 특성을 시뮬레이션하고 분석하는 연구를 진행했습니다.
+- 이 경험을 통해 반도체 소자의 물리적 동작 원리에 대한 깊이 있는 이해를 갖추게 되었으며, 이는 논리 설계 시 하드웨어의 물리적 제약을 고려하는 데 큰 도움이 되었습니다.
+
 
 #### 📝 Publications
 - **Temperature-Dependent Electrical Characteristics of Silicon Biristor**
-  - **Eunseong Kim**, [공동 저자 이름], ...
-  - *[학회 또는 저널 이름]*, [발행 연도]
+  - **Eunseong Kim**, Doohyeok Lim
+  - *Micromachines*, 2023
   - **(1st Author)**
-  - `[여기에 논문 링크(DOI)나 파일을 업로드한 구글 드라이브 링크를 추가하면 좋습니다]`
+  - [View Paper] `(https://www.mdpi.com/2072-666X/14/12/2165)`
 
 <br>
 
 ### 🎓 Education & Experience
-- **Harman Semicon Academy** (`[수료 연도]`)
+- **Harman Semicon Academy** (2025.07 ~ 2026.01 예정)
   - Verilog/SystemVerilog 기반 디지털 시스템 설계 및 검증 과정
-- **[OO 대학교]** (`[입학년도]`.03 ~ `[졸업년도]`.02)
-  - `[컴퓨터공학과 / 전자공학과]` 학사
-  - **주요 수강 과목**: `[디지털논리회로, 컴퓨터구조, 임베디드시스템, 전자회로, 반도체공학 등]`
-
+- **경기대학교 (Kyonggi University)** (2020.03 ~ 2026.02 졸업예정)
+  - 전자공학과 학사
+  - **주요 수강 과목**: `[회로이론, 전자기학, 디지털논리설계, 하드웨어설계, 임베디드시스템설계, 디지털신호처리, 반도체소자공학 등]`
 <br>
 
 ### 📫 How to Reach Me
-- **Email**: `[이메일 주소]`
+- **Email**: `[sorii1028@naver.com]`
 - **Blog**: `[기술 블로그 주소 (선택 사항)]`
 - **Notion**: `[포트폴리오 노션 링크 (선택 사항)]`
