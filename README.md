@@ -25,7 +25,7 @@
 #### Hardware & Protocols
 - **FPGA Boards**: `[DE1-SoC]`, `[Zybo Z7]`, `[Basys 3]`
 - **Protocols**: `AXI4`, `APB`, `UART`, `SPI`, `I2C`
--' **Architectures**: `RISC-V`, `ARM Cortex-M'
+-' **Architectures**: `RISC-V`, `ARM Cortex-M''
 <br>
 
 ### 🚀 Featured Projects
