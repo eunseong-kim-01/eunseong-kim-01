@@ -57,6 +57,11 @@
 ### 🎓 Education & Experience
 - **Harman Semicon Academy** (2025.07 ~ 2026.01 예정)
   - Verilog/SystemVerilog 기반 디지털 시스템 설계 및 검증 과정
+- **[경기대학교] 반도체 공정 실습 (Semiconductor Fabrication Practice)**
+  - **실습 기간**: `[2023.04 ~ 2023.06]`
+  - **주요 내용**: 실제 Fab 환경에서 포토공정(Photolithography), 식각(Etching), 증착(Deposition), 이온 주입(Ion Implantation) 등 단위 공정을 직접 경험하며 Wafer 위의 패턴을 형성하는 과정을 실습했습니다.
+  - **배운 점**: 이 경험을 통해 설계된 회로가 실제 칩으로 구현되는 과정을 이해하게 되었고, 공정 변수(Process variation)가 회로 성능에 미치는 영향을 고려하는 시야를 갖추게 되었습니다.
+
 - **경기대학교 (Kyonggi University)** (2020.03 ~ 2026.02 졸업예정)
   - 전자공학과 학사
   - **주요 수강 과목**: `[회로이론, 디지털논리설계, 하드웨어설계, 임베디드시스템설계,
