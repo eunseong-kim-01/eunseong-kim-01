@@ -24,6 +24,7 @@
 
 #### Hardware & Protocols
 - **FPGA Boards**: `[Basys 3]`
+- **Sensors**: `Ultrasonic (HC-SR04)`, `Temp/Humidity (DHT-11)`
 - **Protocols**: `UART`
 - **Architectures**: 
 <br>
