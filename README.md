@@ -33,7 +33,7 @@
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
 | **`⌚ 하이브리드 제어 디지털 시계 & 스톱워치`** | `FPGA 보드의 버튼과 PC의 UART 통신을 이용해 제어하는 디지털 시계 및 스톱워치` | `[Verilog, Vivado, Basys3]` | `[저장소 링크]` |
-| **`⚙️ 다중 센서 통합 제어 시스템`** | `Watch/Stopwatch, 초음파 거리 측정, 온습도 측정 기능을 하나의 FPGA 시스템으로 통합 (팀 프로젝트) - 온습도 측정 기능 담당` | `[Verilog, Vivado, Basys3, SR04, DHT-11]` | `[저장소 링크]` |
+| **`⚙️ 다중 센서 통합 제어 시스템`** | `Watch/Stopwatch, 초음파 거리 측정, 온습도 측정 기능을 하나의 FPGA 시스템으로 통합 (팀 프로젝트) - 온습도 측정 기능 담당` | `[Verilog, Vivado, Basys3, HC-SR04, DHT-11]` | `[저장소 링크]` |
 | **`🍽️ 재료 맞춤형 레시피 추천 웹`** | `웹 크롤링을 활용한 보유 재료 기반 요리 추천 및 맛집 정보 제공 서비스` | `Python, Flask, Selenium, Pandas, SQLite3, HTML, ngrok` | `[저장소 링크]` |
 
 | **`[프로젝트 이름]`** | `[프로젝트 한 줄 요약]` | `[사용툴]` | `[저장소 링크]` |
