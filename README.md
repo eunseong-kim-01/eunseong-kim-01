@@ -52,7 +52,7 @@
   - *Micromachines*, 2023
   - **(1st Author)**
   - [[Project Summary]](https://github.com/eunseong-kim-01/Temperature-Dependent-Electrical-Characteristics-of-Silicon-Biristor)
-  - [[View Paper]] (https://www.mdpi.com/2072-666X/14/12/2165)
+  - [[View Paper]](https://www.mdpi.com/2072-666X/14/12/2165)
 
 <br>
 
