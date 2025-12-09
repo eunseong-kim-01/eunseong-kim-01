@@ -23,8 +23,8 @@
 ![Silvaco TCAD](https://img.shields.io/badge/Silvaco%20TCAD-D42E16?style=for-the-badge)
 
 #### Hardware & Protocols
-- **FPGA Boards**: `[Basys 3]`, `[Zybo Z7]`
-- **Architectures**: `RISC-V (RV32I)`, `Multi-Cycle CPU`
+- **FPGA Boards**: `[Basys 3]`
+- **Architectures**: `RISC-V (RV32I)`
 - **Protocols**: `AMBA (AXI4, APB)`, `SPI`, `I2C`, `UART`, `VGA`
 - **Sensors/Modules**: `OV7670 Camera`, `HC-SR04`, `DHT-11`
 
@@ -35,13 +35,13 @@
 #### 🖥️ SoC Design & Verification (SystemVerilog / UVM)
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **`⚡ RISC-V RV32I Multi-Cycle CPU & APB System`** | • **RV32I 명령어 집합**을 지원하는 Multi-Cycle CPU 설계<br>• **AMBA APB 프로토콜**을 구현하여 UART, FND 등 Peripheral 제어<br>• C 언어 기반 펌웨어를 ROM에 탑재하여 하드웨어/소프트웨어 통합 검증 수행 | `SystemVerilog` `RISC-V` `AMBA APB` `C` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](링크_입력) |
-| **`🔍 SoC Bus Protocol 설계 및 UVM 검증`** | • **AMBA AXI4, SPI, I2C** 통신 컨트롤러(Master/Slave) RTL 설계<br>• **UVM(Universal Verification Methodology)** 기반의 Testbench(Agent, Scoreboard 등) 구축<br>• SPI Loopback 테스트 및 I2C LED 제어를 통한 프로토콜 기능 검증 완료 | `SystemVerilog` `UVM` `AXI4` `SPI/I2C` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](링크_입력) |
+| **`⚡ RISC-V RV32I Multi-Cycle CPU & APB System`** | • **RV32I 명령어 집합**을 지원하는 Multi-Cycle CPU 설계<br>• **AMBA APB 프로토콜**을 구현하여 UART, FND 등 Peripheral 제어<br>• C 언어 기반 펌웨어를 ROM에 탑재하여 하드웨어/소프트웨어 통합 검증 수행 | `SystemVerilog` `RISC-V` `AMBA APB` `C` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eunseong-kim-01/RISC-V-RV32I-CPU-Multi-Cycle-AMBA-APB-Peripheral) |
+| **`🔍 SoC Bus Protocol 설계 및 UVM 검증`** | • **AMBA AXI4, SPI, I2C** 통신 컨트롤러(Master/Slave) RTL 설계<br>• **UVM(Universal Verification Methodology)** 기반의 Testbench(Agent, Scoreboard 등) 구축<br>• SPI Loopback 테스트 및 I2C LED 제어를 통한 프로토콜 기능 검증 완료 | `SystemVerilog` `UVM` `AXI4` `SPI/I2C` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eunseong-kim-01/AMBAAXI-SPI-I2C-Design-SPI-UVM) |
 
 #### 📹 FPGA & Embedded System
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **`🎮 FPGA 기반 실시간 영상 필터 & 인터랙티브 게임`** | • **OV7670 카메라** 입력 영상을 실시간 처리하는 **VGA Controller** 설계<br>• Line Buffer를 활용한 **Sobel, Gaussian, Cartoon 필터** 구현 (Memory 최적화)<br>• 실시간 색상 인식(Color Detection) 알고리즘을 적용한 **모션 인식 게임** 개발 | `SystemVerilog` `FPGA` `VGA` `Image Processing` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](링크_입력) |
+| **`🎮 FPGA 기반 실시간 영상 필터 & 인터랙티브 게임`** | • **OV7670 카메라** 입력 영상을 실시간 처리하는 **VGA Controller** 설계<br>• Line Buffer를 활용한 **Sobel, Gaussian, Cartoon 필터** 구현 (Memory 최적화)<br>• 실시간 색상 인식(Color Detection) 알고리즘을 적용한 **모션 인식 게임** 개발 | `SystemVerilog` `FPGA` `VGA` `Image Processing` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eunseong-kim-01/Real-time-VGA-Processing-Filter-Motion-Game) |
 | **`⌚ 하이브리드 제어 디지털 시계 & 스톱워치`** | • FPGA 보드의 버튼과 PC의 UART 통신을 동시에 이용하여 제어하는 시스템<br>• UART RX/TX 모듈 설계 및 상태머신(FSM)을 이용한 제어 로직 구현 | `Verilog` `UART` `Vivado` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eunseong-kim-01/UART_Watch-Stopwatch) |
 | **`⚙️ 다중 센서 통합 제어 시스템`** | • 초음파 거리 측정, 온습도 측정, 시계 기능을 통합한 FPGA 시스템<br>• 다중 센서 데이터 처리 및 디스플레이 제어 로직 설계 | `Verilog` `Sensors` `System Integration` | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eunseong-kim-01/UART_WatchStopwatch_HC-SR04_DHT-11) |
 
